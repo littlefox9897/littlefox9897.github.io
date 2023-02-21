@@ -1,2 +1,2 @@
-# zhiwei.github.io
+# zhiwei
 Zhiwei Hu's blog.
